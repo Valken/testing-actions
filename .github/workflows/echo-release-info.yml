@@ -1,7 +1,6 @@
 on:
   release:
-    types: [*]
-
+    types: [published, created, edited, deleted, prereleased, unpublished]
 jobs:
   echo-info:
     runs-on: ubuntu-latest
