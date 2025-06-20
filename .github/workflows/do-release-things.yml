@@ -1,3 +1,5 @@
+name: Do Release Things
+
 on:
   release:
     types: [published]
