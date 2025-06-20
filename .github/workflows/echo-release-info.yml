@@ -1,8 +1,6 @@
-name: Echo Release Info
-
 on:
   release:
-    types: [created]
+    types: [*]
 
 jobs:
   echo-info:
