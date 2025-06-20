@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/Valken/testing-actions/compare/v1.1.0...v1.1.1) (2025-06-20)
+
+
+### Bug Fixes
+
+* change release type ([60128c3](https://github.com/Valken/testing-actions/commit/60128c3afab649d0d5f6403c31b5b0cbf9d75471))
+
 ## [1.1.0](https://github.com/Valken/testing-actions/compare/v1.0.0...v1.1.0) (2025-06-20)
 
 
