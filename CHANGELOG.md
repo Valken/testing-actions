@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/Valken/testing-actions/compare/v1.0.0...v1.1.0) (2025-06-20)
+
+
+### Features
+
+* trigger action when release is made ([d5cad04](https://github.com/Valken/testing-actions/commit/d5cad047c33404ba81544c27dd7fec8ba8150101))
+
 ## 1.0.0 (2025-06-20)
 
 
