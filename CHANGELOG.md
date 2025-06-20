@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.3](https://github.com/Valken/testing-actions/compare/v1.2.2...v1.2.3) (2025-06-20)
+
+
+### Bug Fixes
+
+* PAT for release please ([580eb19](https://github.com/Valken/testing-actions/commit/580eb19e567219013c5b10972227c551616e75e1))
+
 ## [1.2.2](https://github.com/Valken/testing-actions/compare/v1.2.1...v1.2.2) (2025-06-20)
 
 
