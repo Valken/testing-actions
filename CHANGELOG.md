@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.1.2](https://github.com/Valken/testing-actions/compare/v1.1.1...v1.1.2) (2025-06-20)
+
+
+### Bug Fixes
+
+* another fix ([cdb91e2](https://github.com/Valken/testing-actions/commit/cdb91e2b8fa35cbb2609dfb91f9c4f0eaea7e901))
+* more action messing ([ada0b86](https://github.com/Valken/testing-actions/commit/ada0b860c2d8082a132fac43321ebf7620838946))
+
 ## [1.1.1](https://github.com/Valken/testing-actions/compare/v1.1.0...v1.1.1) (2025-06-20)
 
 
