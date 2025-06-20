@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.2.0](https://github.com/Valken/testing-actions/compare/v1.1.2...v1.2.0) (2025-06-20)
+
+
+### Features
+
+* thing ([6346cda](https://github.com/Valken/testing-actions/commit/6346cdabb302af726a0a07e96b1c984460f7114f))
+
+
+### Bug Fixes
+
+* still trying to get an on release action to trigger ([42c8ef1](https://github.com/Valken/testing-actions/commit/42c8ef1528c6aaf563e221ec90d771b032b8566d))
+
 ## [1.1.2](https://github.com/Valken/testing-actions/compare/v1.1.1...v1.1.2) (2025-06-20)
 
 
