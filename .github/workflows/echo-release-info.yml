@@ -1,0 +1,16 @@
+name: Echo Release Info
+
+on:
+  release:
+    types: [published]
+
+jobs:
+  echo-info:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Echo release parameters
+        run: |
+          echo "Release Tag: ${{ github.event.release.tag_name }}"
+          echo "Release Name: ${{ github.event.release.name }}"
+          echo "Release Author: ${{ github.event.release.author.login }}"
+          echo "Release URL: ${{ github.event.release.html_url }}"
