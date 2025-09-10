@@ -1,0 +1,21 @@
+name: AWS OIDC Test
+
+on:
+    workflow_dispatch:
+
+permissions:
+  id-token: write
+
+jobs:
+  run_job_with_aws:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Configure AWS Credentials
+        uses: aws-actions/configure-aws-credentials@main # Or a specific version
+        with:
+          role-to-assume: ${{ secrets.AWS_ROLE }}
+          aws-region: eu-west-1
+      - name: Additional steps
+        run: |
+          # Your commands that require AWS credentials
+          aws sts get-caller-identity 
