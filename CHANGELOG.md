@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/Valken/testing-actions/compare/v1.2.3...v1.3.0) (2025-09-10)
+
+
+### Features
+
+* some text ([fb7a70c](https://github.com/Valken/testing-actions/commit/fb7a70c67a1934cac3a26ad25d95d9cf7a1d340a))
+
 ## [1.2.3](https://github.com/Valken/testing-actions/compare/v1.2.2...v1.2.3) (2025-06-20)
 
 
