@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.0](https://github.com/Valken/testing-actions/compare/v1.3.0...v1.4.0) (2025-09-19)
+
+
+### Features
+
+* remove text ([e9b8fdd](https://github.com/Valken/testing-actions/commit/e9b8fdda00227a54c1750592e0987e5a36b99d04))
+
 ## [1.3.0](https://github.com/Valken/testing-actions/compare/v1.2.3...v1.3.0) (2025-09-10)
 
 
